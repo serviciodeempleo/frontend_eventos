@@ -1,0 +1,66 @@
+@font-face{
+   font-family: "LightCondensed";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/DINNextLTPro-LightCondensed.otf);
+}
+@font-face{
+   font-family: "Condensed";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/DINNextLTPro-Condensed.otf);
+}
+@font-face{
+   font-family: "Light";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/DINNextLTPro-Light.otf);
+}
+@font-face{
+   font-family: "Regular";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/DINNextLTPro-Regular.otf);
+}
+@font-face{
+   font-family: "FuturaHeavy";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/FuturaLT-Heavy.ttf);
+}
+@font-face{
+   font-family: "FuturaCondensed";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/FuturaLT-Condensed.ttf);
+}
+@font-face{
+   font-family: "FuturaBold";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/FuturaLT-Bold.ttf);
+}
+@font-face{
+   font-family: "FuturaRegular";
+   font-style: normal;
+   font-weight: normal;
+   src: url(../font/FuturaLT.ttf);
+}
+
+.contador {
+   font-family: "FuturaHeavy";
+   font-size: 60px;
+   /*border-style: dashed;
+   border-radius: 6px;*/
+   color: #575859;
+}
+
+.contador_label {
+   font-family: "FuturaHeavy";
+   font-size: 27px;
+   margin-left: 20px;
+   margin-top: -30px;
+   line-height: 28px;
+   color: #E10000;
+   /*color: rgb(221,3,16);*/
+}
